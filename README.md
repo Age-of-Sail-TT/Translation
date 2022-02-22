@@ -16,7 +16,7 @@ Each <aos-values-xx.json> contains: **Array, Objects & Values** in the form of:
 ]
 ```
 ### Parts
-```id``` is a unique identifier for this draft, you may used the format: ```"id": "hdst:aos-translation-X"``` with **X** is the <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php">ISO 639-1<a> language code. example: ```"id": "hdst:aos-translation-en"``` as identifier for English translation.
+```id``` is a unique identifier for this draft, you may used the format: ```"id": "hdst:aos-translation-X"``` with **X** is the <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php">ISO 639-1<a> language code. example: ```"id": "hdst:aos-translation-fil"``` as identifier for Filipino language.
  
  ```type``` the type of the draft, values should always be: ```"translation"```
  
