@@ -9,8 +9,8 @@ Each <aos-values-xx.json> contains: **Array, Objects & Values** in the form of:
     "id": "hdst:aos-translation-X",
     "type": "translation",
     "X": {
-      "IDS": "localized value",
-      //...
+      "IDS": "localized value"
+
     }
   }
 ]
