@@ -20,12 +20,12 @@ Each <aos-values-xx.json> contains: **Array, Objects & Values** in the form of:
  
  ```type``` the type of the draft, values should always be: ```"translation"```
  
- ```X``` the **ISO 639-1*** code of your language, (e.g. ```"fil": {}```)for Filipino language.
+ ```X``` the **ISO 639-1** code of your language, (e.g. ```"fil": {}```)for Filipino language.
  
  ```IDS``` are the translation value of each drafts inside the plugin, **These are all constant**. kindly check "aos-values-en.json" for id's value.
 
 
-```localized value``` the translation on your country
+```localized value``` the corresponding translation on your language.
  
 **Please check out "aos-values-en.json" as reference. and also don't forget JSON syntax**
  
