@@ -30,7 +30,7 @@ Each <aos-values-xx.json> contains: **Array, Objects & Values** in the form of:
 **Please check out "aos-values-en.json" as reference. and also don't forget JSON syntax**
  
 Special characters like \n might be used to indicate a new line.
-If you see any characters like ```${$aos-planks}``` it is a variable for integers so leave it as it is.
+If you see any characters like ```${$aos-planks}``` it is a variable for integers so leave it as it is. Values: English(default language) is always up to date.
 
  
  When your translation is done, make sure to create a 'pull request' so it can be merged to main branch. If you forget to do that step your translation won't be added to the main branch.
