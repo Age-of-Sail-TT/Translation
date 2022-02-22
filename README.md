@@ -25,7 +25,7 @@ Each <aos-values-xx.json> contains: **Array, Objects & Values** in the form of:
  ```IDS``` are the translation value of each drafts inside the plugin, **These are all constant**. kindly check "aos-values-en.json" for id's value.
 
 
-```localized value``` the corresponding translation on your language.
+```localized value``` the corresponding translation of your language.
  
 **Please check out "aos-values-en.json" as reference. and also don't forget JSON syntax**
  
