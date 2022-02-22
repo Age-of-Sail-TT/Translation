@@ -1,6 +1,6 @@
 [
    {
-      "id": "$hdst::Aos_translation00",
+      "id": "$hdst::aos_translation-en",
       "type": "translation",
       "*": {
          "$aos_guide_dialogTitle": "The Forbidden Guide",
